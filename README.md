@@ -10,11 +10,11 @@ Apaixonado por tecnologia, gosto de resolver problemas e aprender. Sempre aberto
 
  # Hey 👋
 
- My name is Amadeu Filipe Lopes 👨‍🇧🇷
+ My name is Amadeu Filipe Lopes 👨‍🇧🇷<br>
 
- Student of TADS(Systems Analysis and Development) at Univel since 2020, currently an English student at PEL and Studying programming languages.
+ Student of TADS(Systems Analysis and Development) at Univel since 2020, currently an English student at PEL and Studying programming languages.<br>
 
- I'm passionate about technology, like to solve problems and learning. Always open to new challenges and ready to face changes.
+ I'm passionate about technology, like to solve problems and learning. Always open to new challenges and ready to face changes.<br>
  
 ### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
  
@@ -37,7 +37,7 @@ Apaixonado por tecnologia, gosto de resolver problemas e aprender. Sempre aberto
  
 <div>  
 
-How to reach me: 👇🏼
+How to reach me: 👇🏼<br>
 
 <a href="https:https://www.linkedin.com/in/amadeu-filipe-lopes12/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/felipe_lopes11" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
