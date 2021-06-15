@@ -44,7 +44,4 @@ How to reach me: 👇🏼<br>
   <a href = "mailto: filipinholopes6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://codepen.io/felipelopes12" target="_blank"><img src="https://img.shields.io/badge/-Codepen-black?style=for-the-badge&logo=Codepen&logoColor=white" target="_blank"></a>
 
-
-  ![Snake animation](https://github.com/felipelopes12/felipelopes12/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
